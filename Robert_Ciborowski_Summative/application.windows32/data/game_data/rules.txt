@@ -1,0 +1,32 @@
+Units can be placed on these tiles:
+1
+Time Between Tax Updates:
+20000
+Default Land Value:
+2000
+If:
+unit_0_0 beside unit_3_0 toggle upgradability
+If:
+unit_1_0 beside unit_3_0 toggle upgradability
+If:
+unit_2_0 beside unit_3_0 toggle upgradability
+If:
+unit_4_0 beside unit_3_0 toggle activity
+If:
+unit_4_1 beside unit_3_0 toggle activity
+If:
+unit_5_0 beside unit_3_0 toggle activity
+If:
+unit_5_1 beside unit_3_0 toggle activity
+If:
+unit_6_0 beside unit_3_0 toggle activity
+If:
+unit_6_1 beside unit_3_0 toggle activity
+If:
+unit_7_0 beside unit_3_0 toggle activity
+If:
+unit_8_0 beside unit_3_0 toggle activity
+If:
+unit_9_0 beside unit_3_0 toggle activity
+If:
+unit_10_0 beside unit_3_0 toggle activity

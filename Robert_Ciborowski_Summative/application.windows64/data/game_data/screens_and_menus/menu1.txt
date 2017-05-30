@@ -1,0 +1,15 @@
+This file specifies information for a menu.
+Image Source:
+game_data/screens_and_menus/backdrop3.png
+Image Coords:
+0, 0
+Text:
+New City...
+Colours:
+255, 255, 50;
+Text Coordinates:
+330, 80
+Buttons:
+1
+Text Size:
+30

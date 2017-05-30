@@ -1,0 +1,13 @@
+This file specifies main data such as the amount of menus in the game.
+Screen Amount:
+4
+Menu Amount:
+7
+Unit Type Amount:
+13
+Buildings Per Unit Type:
+3
+Default Camera Position:
+50, 38
+Game Rules Amount:
+13

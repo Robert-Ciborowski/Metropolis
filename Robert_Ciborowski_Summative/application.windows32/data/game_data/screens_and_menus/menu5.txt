@@ -1,0 +1,5 @@
+This file specifies information for a menu.
+Image Source:
+game_data/screens_and_menus/backdrop0.png
+Image Coords:
+25, HEIGHT_MINUS_135

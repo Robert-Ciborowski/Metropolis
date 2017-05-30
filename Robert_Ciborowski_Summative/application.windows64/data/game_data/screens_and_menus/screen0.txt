@@ -1,0 +1,5 @@
+This file specifies information for a screen.
+Type:
+seperate
+Menus:
+0

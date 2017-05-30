@@ -1,0 +1,24 @@
+Main Colour:
+210, 210, 210
+Main Colour When Hover:
+180, 180, 180
+Main Colour When Clicked:
+160, 160, 160
+Outline Colour:
+100, 100, 100
+Text Colour:
+100, 100, 100
+Text:
+START A NEW GAME
+Text Dimensions:
+108, 271
+Text Size:
+16
+Button Dimensions:
+100, 250, 170, 30
+Border Width:
+1
+Rounded Corner Radius:
+5
+OnClick:
+GO_TO_SCREEN, 2

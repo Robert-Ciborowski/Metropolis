@@ -1,0 +1,7 @@
+This file specifies unit data.
+Prices:
+0, 0, 0; 0, 0, 0; 0, 0, 0; 10, 0, 0; 1000, 400, 0; 500, 2000, 0; 200, 10000, 0; 10000, 50, 0; 10000, 0, 0; 10000, 0, 0; 10000, 0, 0
+Names:
+Residential Zone, a, a; Commercial Zone, a, a; Industrial Zone, a, a; Road, a, a; Coal Plant, Wind Turbine, a; Water Tower, Sewage Treatment, a; Trash Dump, Recycle Center, a; Firehouse, a, a; Clinic, a, a; Police Station, a, a; School, a, a
+Properties:
+0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0, 30; 0, 10; 0, 0; 10; 10; 0; 10, 20; 50, 1; 0, 0; 30; 0; 0; 30; 0; 0; 30; 0; 0; 30; 0; 0

@@ -1,0 +1,5 @@
+This file specifies information for a screen.
+Menus:
+2, 3, 4, 5
+Type:
+gameplay

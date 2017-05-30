@@ -1,0 +1,15 @@
+This file specifies information for a menu.
+Image Source:
+game_data/screens_and_menus/blank.png
+Image Coords:
+0, 0
+Text:
+Metropolis, by Robert Ciborowski
+Colours:
+255, 255, 50; 240, 240, 240
+Text Coordinates:
+100, 80; 105, 110
+Buttons:
+0
+Text Size:
+60; 15

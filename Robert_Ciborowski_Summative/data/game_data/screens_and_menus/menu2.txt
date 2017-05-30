@@ -1,0 +1,15 @@
+This file specifies information for a menu.
+Image Source:
+game_data/screens_and_menus/backdrop0.png
+Image Coords:
+0, 0
+Text:
+Population: , @POPULATION, Money: , @MONEY
+Colours:
+0, 0, 0; 0, 0, 0; 0, 0, 0; 0, 0, 0
+Text Coordinates:
+100, 23; 205, 23; 300, 23; 370, 23
+Text Size:
+18; 18; 18; 18
+Buttons:
+17

@@ -1,0 +1,26 @@
+Main Colour:
+210, 210, 210
+Main Colour When Hover:
+160, 160, 160
+Main Colour When Clicked:
+140, 140, 140
+Outline Colour:
+100, 100, 100
+Text Colour:
+100, 100, 100
+Text:
+ 
+Text Dimensions:
+-30, -30
+Text Size:
+1
+Button Dimensions:
+150, HEIGHT_MINUS_50, 50, 50
+Border Width:
+1
+Rounded Corner Radius:
+1
+OnClick:
+SELECT_UNIT_TYPE, 0
+Image:
+game_data/other/homeIcon.png

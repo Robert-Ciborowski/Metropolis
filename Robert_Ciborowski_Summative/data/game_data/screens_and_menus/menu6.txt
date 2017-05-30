@@ -1,0 +1,15 @@
+This file specifies information for a menu.
+Image Source:
+game_data/screens_and_menus/backdrop4.png
+Image Coords:
+100, 75
+Text:
+How to Play:, Use the buttons at the bottom to select what unit you want!, There are 3 zones you may place., There are buildings that are government funded., Some buildings may cause pollution., Use the caution symbol to demolish.
+Colours:
+0, 0, 0; 0, 0, 0; 0, 0, 0; 0, 0, 0; 0, 0, 0; 0, 0, 0
+Text Coordinates:
+310, 120; 110, 150; 110, 180; 110, 210; 110, 240; 110, 270
+Buttons:
+18
+Text Size:
+30; 15; 15; 15; 15; 15

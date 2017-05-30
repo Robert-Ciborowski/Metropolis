@@ -1,0 +1,28 @@
+Main Colour:
+210, 210, 210
+Main Colour When Hover:
+180, 180, 180
+Main Colour When Clicked:
+160, 160, 160
+Outline Colour:
+100, 100, 100
+Text Colour:
+100, 100, 100
+Text Colour:
+100, 100, 100
+Text:
+ 
+Text Dimensions:
+-30, -30
+Text Size:
+1
+Button Dimensions:
+765, 0, 35, 35
+Border Width:
+1
+Rounded Corner Radius:
+5
+OnClick:
+GO_TO_SCREEN, 2
+Image:
+game_data/other/helpIconSmall.png
